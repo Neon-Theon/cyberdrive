@@ -1,3 +1,8 @@
+![Status](https://img.shields.io/badge/status-prototype-blue)
+![Theme](https://img.shields.io/badge/theme-Cyberpunk-red)
+![Tech](https://img.shields.io/badge/tech-Gemini%20Generated-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # CYBERDRIVE – Gemini AI Cyberpunk Driving Game
 <img width="1503" height="1000" alt="Screenshot 2026-03-08 212547" src="https://github.com/user-attachments/assets/8e1ed396-3ac7-47f2-8cdb-30ecd932e491" />
 
