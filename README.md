@@ -19,15 +19,10 @@ A high-speed cyberpunk arcade racing game with AI-generated racetracks, missions
 **Full analog controller support** (Xbox, PS5, Steam Deck — perfect arcade feel with triggers & stick)
 
 **Keyboard**  
-W = accelerate
-A = turn left
-D = turn right
-SPACE = brake 
+W = accelerate | A = turn left | D = turn right | SPACE = brake 
 
 **Gamepad**  
-Left stick = steering
-Right trigger = accelerate | Left trigger = brake  
-Y = reset car
+Left stick = steering | Right trigger = accelerate | Left trigger = brake | Y = reset car
 
 ## 🛠️ Tech Stack
 - Google AI Studio + Gemini
