@@ -1,20 +1,20 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# CYBERDRIVE – Gemini AI Cyberpunk Driving Game
+<img width="1503" height="1000" alt="Screenshot 2026-03-08 212547" src="https://github.com/user-attachments/assets/8e1ed396-3ac7-47f2-8cdb-30ecd932e491" />
 
-# Run and deploy your AI Studio app
+**Built entirely in Google AI Studio with Gemini**  
+A high-speed cyberpunk arcade racing game where AI dynamically generates neon tracks, missions, obstacles, and career progression in real-time. Customize your ride in the garage, race through procedurally created cities, and level up your driving skills.
 
-This contains everything you need to run your app locally.
+## ✨ How to Run
+1. `npm install`
+2. Copy `.env.example` to `.env.local` and add your `GEMINI_API_KEY`
+3. `npm run dev`
+4. Open http://localhost:5173
 
-View your app in AI Studio: https://ai.studio/apps/e9b29fdc-4453-4e59-b0a5-afbd1072596c
+## 🛠️ Tech Stack
+- Google AI Studio + Gemini
+- Vite + React + TypeScript
 
-## Run Locally
+Made as part of my AI portfolio using Google AI Studio.
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**View the original in AI Studio** → https://ai.studio/apps/e9b29fdc-4453-4e59-b0a5-afbd1072596c  
+**Full code & local setup** → [GitHub repo](https://github.com/Neon-Theon/cyberdrive)
